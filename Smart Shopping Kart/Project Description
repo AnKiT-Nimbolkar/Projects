@@ -1,0 +1,10 @@
+Project:RFID-Based Smart Shopping Cart with Automatic Billing System.
+Our initiative is focused on creating a smart shopping cart with an automatic billing system. 
+We developed a practical and effective shopping solution using RFID technology and an Arduino Uno board. 
+Each product in the system has RFID tags that are scanned by an EM18 RFID reader, an Arduino Uno board, and an LCD screen.
+The Arduino Uno analyses the data and adds the item to the basket as soon as a user scans an RFID-tagged product with the reader, updating the final bill in the process. 
+The LCD panel shows real-time data such as the running total and product specifics.
+This streamlines the billing process and does away with the need for human computations.
+Overall, by automating the charging procedure right in the shopping cart, our idea intends to improve the shopping experience.
+Users can easily scan things, keep track of their purchases, and have the bill computed automatically with our Smart Shopping Kart.
+This method streamlines procedures for both customers and retailers, cuts down on human error, and saves time.
